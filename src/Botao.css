@@ -1,0 +1,16 @@
+button {
+    padding: 15px;
+    border-radius: 15px;
+    margin: 10px;
+    border: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.355);
+}
+
+.adicionar {
+    background: rgb(2, 213, 2);
+}
+
+.subtrair {
+    background: rgb(255, 82, 82);
+    color: white;
+}
